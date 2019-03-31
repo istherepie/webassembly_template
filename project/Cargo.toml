@@ -1,0 +1,9 @@
+[package]
+name = "webassembly_project"
+version = "0.1.0"
+authors = ["Steffen Park <dev@istherepie.com>"]
+
+[dependencies]
+
+[lib]
+crate-type = ["cdylib"]
